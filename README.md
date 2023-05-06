@@ -7,5 +7,6 @@ It's a very well done course - I encourage you to take it!
 
 Adaptations:
 
-I've used the Langchain framework
-I've replaced (most of) the examples used in the course, with examples from the medical domain
+ - I've used the Langchain framework
+
+ - I've replaced (most of) the examples used in the course, with examples from the medical domain
