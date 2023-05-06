@@ -9,4 +9,4 @@ Adaptations:
 
  - I've used the Langchain framework
 
- - I've replaced (most of) the examples used in the course, with examples from the medical domain
+ - I've replaced several of the examples used in the course, with examples from the medical domain
